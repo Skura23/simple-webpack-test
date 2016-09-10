@@ -2,4 +2,15 @@
 这是个webpack搭建的简易教程<br>
 博客地址：http://www.cnblogs.com/skura23/p/5859456.html<br>
 使用方法：<br>
-<font color=gray>git clone</font>
+<ol>
+<li>git clone git@github.com:Skura23/simple-webpack-test.git</li>
+<li>npm install --only=dev </li>
+<li>npm run build</li>
+<li>npm run dev</li>
+<li>打开http://localhost:8080</li>
+</ol>
+如果install存在问题，先
+rm -rf node_modules/
+npm cache clean
+再重新install
+
