@@ -9,8 +9,8 @@
 <li>npm run dev</li>
 <li>打开http://localhost:8080</li>
 </ol>
-如果install存在问题，先
-rm -rf node_modules/
-npm cache clean
-再重新install
+如果install存在问题，先<br>
+rm -rf node_modules/<br>
+npm cache clean<br>
+再重新install<br>
 
